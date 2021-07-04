@@ -1,0 +1,16 @@
+/mnt/c/Dev/C#Proj/bin/Debug/net5.0/C#Proj
+/mnt/c/Dev/C#Proj/bin/Debug/net5.0/C#Proj.deps.json
+/mnt/c/Dev/C#Proj/bin/Debug/net5.0/C#Proj.runtimeconfig.json
+/mnt/c/Dev/C#Proj/bin/Debug/net5.0/C#Proj.runtimeconfig.dev.json
+/mnt/c/Dev/C#Proj/bin/Debug/net5.0/C#Proj.dll
+/mnt/c/Dev/C#Proj/bin/Debug/net5.0/ref/C#Proj.dll
+/mnt/c/Dev/C#Proj/bin/Debug/net5.0/C#Proj.pdb
+/mnt/c/Dev/C#Proj/obj/Debug/net5.0/C#Proj.csproj.AssemblyReference.cache
+/mnt/c/Dev/C#Proj/obj/Debug/net5.0/C#Proj.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Dev/C#Proj/obj/Debug/net5.0/C#Proj.AssemblyInfoInputs.cache
+/mnt/c/Dev/C#Proj/obj/Debug/net5.0/C#Proj.AssemblyInfo.cs
+/mnt/c/Dev/C#Proj/obj/Debug/net5.0/C#Proj.csproj.CoreCompileInputs.cache
+/mnt/c/Dev/C#Proj/obj/Debug/net5.0/C#Proj.dll
+/mnt/c/Dev/C#Proj/obj/Debug/net5.0/ref/C#Proj.dll
+/mnt/c/Dev/C#Proj/obj/Debug/net5.0/C#Proj.pdb
+/mnt/c/Dev/C#Proj/obj/Debug/net5.0/C#Proj.genruntimeconfig.cache
