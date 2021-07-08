@@ -14,7 +14,7 @@ class Basic
     {
         double num1, num2, num3;
 
-        Console.Write("Enter a number: ");
+        Console.Write("Enter a number: ");  
         num1 = Convert.ToDouble(Console.ReadLine());
 
         Console.Write("Enter another number: ");
