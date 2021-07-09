@@ -6,7 +6,7 @@ class Basic
     {
         string Name = Console.ReadLine();
 
-        Console.WriteLine("Hello, {0}", Name);	
+        Console.WriteLine("Hello, {0}", Name);
 
     }
 
