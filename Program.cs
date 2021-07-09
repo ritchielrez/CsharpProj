@@ -31,7 +31,7 @@ class Basic
 
     static void Main()
     {
-        Console.Title = "BasicApp";
+        Console.Title = "C#Basic";
 
         Console.ForegroundColor = ConsoleColor.Green;	
 
