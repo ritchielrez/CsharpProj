@@ -6,7 +6,7 @@ class Basic
     {
         string Name = Console.ReadLine();
 
-        Console.WriteLine("Hello, {0}", Name);
+        Console.WriteLine("Hello, {0}", Name);	
 
     }
 
@@ -14,7 +14,7 @@ class Basic
     {
         double num1, num2, num3;
 
-        Console.Write("Enter a number: ");  
+        Console.Write("Enter a number: ");
         num1 = Convert.ToDouble(Console.ReadLine());
 
         Console.Write("Enter another number: ");
@@ -33,7 +33,7 @@ class Basic
     {
         Console.Title = "BasicApp";
 
-        Console.ForegroundColor = ConsoleColor.Green;
+        Console.ForegroundColor = ConsoleColor.Green;	
 
         Basics();
         Vars();
