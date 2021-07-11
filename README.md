@@ -1,4 +1,4 @@
 # CsharpProj
 
 **This is my repo where I'm gonna keep my C# code.
-The code is mainly written to learn C#.**
+In this repo I'll store the C# code that I've learned.**
