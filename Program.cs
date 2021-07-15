@@ -33,6 +33,13 @@ class Basic
     {
         Console.Write("Do you think Dark Knight is a good movie? ");
         string opinion = Console.ReadLine();
+
+        Console.WriteLine(opinion);
+
+        if (opinion.ToLower() == "true")
+        {
+            Console.WriteLine("Yo have good taste of movie.");
+        }
     }
 
     static void Main()
@@ -43,5 +50,6 @@ class Basic
 
         Basics();
         Vars();
+        Conditional();
     }
 }
