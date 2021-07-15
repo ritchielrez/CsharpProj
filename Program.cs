@@ -29,11 +29,17 @@ class Basic
 
     }
 
+    static void Conditional()
+    {
+        Console.Write("Do you think Dark Knight is a good movie? ");
+        string opinion = Console.ReadLine();
+    }
+
     static void Main()
     {
         Console.Title = "CsharpBasic";
 
-        Console.ForegroundColor = ConsoleColor.Green;	
+        Console.ForegroundColor = ConsoleColor.Green;
 
         Basics();
         Vars();
